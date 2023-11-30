@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Test");
         System.out.println("test.2");
+        System.out.println("왜 안 되는 거지?");
         }
     }
